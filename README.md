@@ -5,9 +5,9 @@ Plugin for RusherHack that automatically preformes the anvil dupe.
 ### Usage
 
 - Enable.
-- place item in slot 8
-- fill the rest of your inventory
+- place item in slot 7
 - Open Anvil.
+- click on slot 7
 - Profit.
 
 ### Config
