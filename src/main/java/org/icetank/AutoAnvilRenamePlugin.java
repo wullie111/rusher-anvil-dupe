@@ -32,21 +32,21 @@ public class AutoAnvilRenamePlugin extends Plugin {
 	
 	@Override
 	public String getName() {
-		return "AutoAnvilRenamePlugin";
+		return "Rusher Anvil Duper";
 	}
 	
 	@Override
 	public String getVersion() {
-		return "v0.1";
+		return "v1.2";
 	}
 	
 	@Override
 	public String getDescription() {
-		return "Auto Anvil Rename";
+		return "Auto Anvil Duper for Rusher";
 	}
 	
 	@Override
 	public String[] getAuthors() {
-		return new String[]{"IceTank (ign: Ic3Tank)"};
+		return new String[]{"IceTank (ign: Ic3Tank), wullie111 (ign: wullie)"};
 	}
 }
